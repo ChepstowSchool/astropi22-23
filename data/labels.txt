@@ -1,0 +1,4 @@
+0 coastline
+1 clouds
+2 nightAndTwilight
+3 land
